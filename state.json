@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "cat_name": "comi",
+  "mood": 60,
+  "total_feeding": 0,
+  "level": 1,
+  "last_event_id": null,
+  "daily_intake": {
+    "date": "2026-07-17",
+    "kibble": 0,
+    "snack": 0,
+    "feast": 0
+  },
+  "updated_at": "2026-07-17T15:31:55Z"
+}
