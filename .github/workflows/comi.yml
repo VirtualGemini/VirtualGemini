@@ -1,0 +1,13 @@
+name: comi
+
+on:
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  comi:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: VirtualGemini/comi@feat/01-state-pipeline-tracer

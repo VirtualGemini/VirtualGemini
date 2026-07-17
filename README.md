@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![comi](https://raw.githubusercontent.com/VirtualGemini/VirtualGemini/pet/comi.svg)
+
 <!--
 **VirtualGemini/VirtualGemini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
