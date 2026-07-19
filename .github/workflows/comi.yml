@@ -10,4 +10,4 @@ jobs:
   comi:
     runs-on: ubuntu-latest
     steps:
-      - uses: VirtualGemini/comi@feat/01-state-pipeline-tracer
+      - uses: VirtualGemini/comi@feat/02-activity-collection-guards
